@@ -1,0 +1,29 @@
+[
+    {
+        "type": "owe",
+        "amount": 500,
+        "person_name": "myself",
+        "user_id": 693607,
+        "id": 790663,
+        "createdAt": "2020-03-01 11:35:31.685453",
+        "lastModified": "2020-03-01 11:35:31.685453"
+    },
+    {
+        "type": "lent",
+        "amount": 304,
+        "person_name": "Kat",
+        "user_id": 693607,
+        "id": 763944,
+        "createdAt": "2020-03-01 11:52:31.202264",
+        "lastModified": "2020-03-01 11:52:31.202264"
+    },
+    {
+        "type": "owe",
+        "amount": 200,
+        "person_name": "Kat",
+        "user_id": 693607,
+        "id": 933864,
+        "createdAt": "2020-03-04 00:33:15.026787",
+        "lastModified": "2020-03-04 00:33:15.026787"
+    }
+]

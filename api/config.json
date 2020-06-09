@@ -1,0 +1,11 @@
+{
+    "USERS_FILE_PATH": "./user.json",
+    "TRANSACTIONS_FILE_PATH": "./transactions.json",
+    "TRANSACTION_TYPES": ["owe", "lent", "deposit", "withdraw"],
+
+    "TwilioAPI": {
+    	"ACCOUNT_SID" : "AC406df9a892b77b8c5e65a7973897c2e1",
+    	"AUTH_TOKEN" : "2ee685d732631960bb8158ebf558c7ff",
+    	"NUMBER" : "+12063124358"
+    }
+}

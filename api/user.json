@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Arnav Kohli",
+        "password": "password",
+        "email": "arnavkohli@gmail.com",
+        "number": "+919820417721",
+        "id": 693607,
+        "createdAt": "2020-03-01 11:17:36.019508",
+        "lastModified": "2020-03-01 11:17:36.019508"
+    },
+    {
+        "id": 468265,
+        "name": "Test2",
+        "password": "password",
+        "email": "asa@gmail.com",
+        "number": "92032302",
+        "createdAt": "2020-03-01 15:50:51.551361",
+        "lastModified": "2020-03-01 15:54:53.919003"
+    },
+    {
+        "name": "huhlhlhlhl",
+        "password": "password",
+        "email": "asa@gmail.com",
+        "number": "92032302",
+        "id": 951175,
+        "createdAt": "2020-03-01 15:54:53.913941",
+        "lastModified": "2020-03-01 15:54:53.913941"
+    }
+]
